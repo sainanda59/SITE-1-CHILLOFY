@@ -23,6 +23,7 @@ h1{
     padding-bottom: 0px;
     color: black;
     font-size: 50px;
+    position: relative;
 }
 
 body{
@@ -31,6 +32,6 @@ body{
 }
 
 #boxes{
-    margin-left: 33%;
+    margin-left: 33vw;
 }
 
