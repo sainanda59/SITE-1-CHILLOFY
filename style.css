@@ -27,6 +27,7 @@ h1{
 
 body{
     background-image: url('static/bg.jpg');
+    background-size: contain;
 
 }
 
