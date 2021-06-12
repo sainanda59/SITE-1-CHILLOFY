@@ -1,0 +1,36 @@
+.r1,.r2,.r3{
+    display: inline-block;
+    background-color: white;
+    border-radius: 45%;
+    height: 250px;
+    width: 250px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.sb{
+    box-sizing: border-box;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+}
+
+h1{
+    padding-left: 200px;
+    padding-bottom: 0px;
+    color: black;
+    padding-left: 34vw;
+    font-size: 50px;
+}
+
+body{
+    background-image: url('static/bg.jpg');
+
+}
+
+#boxes{
+    margin-left: 30vw;
+}
+
